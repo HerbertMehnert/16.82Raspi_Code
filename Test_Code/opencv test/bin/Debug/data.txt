@@ -1,0 +1,4 @@
+Frame Width: 640
+Frame Height: 480
+------------------
+Timestamp   X     Y
